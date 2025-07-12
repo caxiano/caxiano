@@ -16,8 +16,8 @@ My skills
 - Libraries like pandas and PySide6
 
 Find me
-- [LinkedIn](link to your LinkedIn profile)
-- [Email](your email)
+- [LinkedIn]https://www.linkedin.com/in/cassiano-nishikawa
+- [Email]csnishikawa@gmail.com
 
 
 <!--
