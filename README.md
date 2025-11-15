@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00A8FF&center=true&vCenter=true&lines=Full+Stack+Developer;Python+%7C+TypeScript;AI+%26+Machine+Learning;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00A8FF&center=true&vCenter=true&lines=Full+Stack+Developer;Python+%7C+TypeScript;AI+%26+Machine+Learning;Always+learning" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Cassiano</strong></h1>
