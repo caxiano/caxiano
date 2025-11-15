@@ -1,32 +1,45 @@
 name: Generate Snake
 
 on:
-  schedule: 
+  schedule:
     - cron: "0 */12 * * *"
   push:
     branches:
       - main
   workflow_dispatch:
 
+# permite escrita no repositório via GITHUB_TOKEN
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
-      - name: Generate Snake Animation
+      - name: Ensure output directory exists
+        run: mkdir -p output
+
+      - name: Generate Snake Animation (SVG)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: caxiano
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg
 
-      - name: Push Snake Animation
+      - name: List output files
+        run: ls -la output || true
+
+      - name: Commit and push generated snake
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: actions@github.com
-          message: "generated snake"
-          add: "dist"
+          message: "chore: generated snake"
+          add: "output"
