@@ -96,7 +96,7 @@ Full Stack Developer & Technology Graduate focused on **scalable solutions** and
 
 ## 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/caxiano/caxiano/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/caxiano/caxiano/main/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
