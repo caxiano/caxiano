@@ -88,15 +88,19 @@ Full Stack Developer & Technology Graduate focused on **scalable solutions** and
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=caxiano&show_icons=true&theme=github_dark" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caxiano&layout=compact&theme=github_dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=caxiano&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caxiano&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/caxiano/caxiano/main/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
