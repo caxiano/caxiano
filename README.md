@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Cassiano</strong></h1>
-<h3 align="center">Full Stack Developer | Python & TypeScript | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Python | React | TypeScript | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cassiano-nishikawa/">
@@ -40,21 +40,21 @@ Full Stack Developer & Technology Graduate focused on **scalable solutions** and
 
 ### 🔹 Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,django,flask,nextjs" />
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nextjs" />
 </p>
 
 ### 🔹 Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb" />
 </p>
 
 ### 🔹 Cloud, Tools & DevOps  
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,gcp,docker,vercel,git,github,windows,linux" />
 </p>
-
----
 <!-- 
+---
+
 ## ⭐ Featured Projects
 
 ### 🔥 **AI & Automation**
@@ -75,11 +75,11 @@ Full Stack Developer & Technology Graduate focused on **scalable solutions** and
 
 - **Dashboard Administrativo (React + Chakra + API REST)**  
   _Gráficos, KPIs, autenticação e controle de usuários_  
-  [🔗 Ver Projeto](#) -->
+  [🔗 Ver Projeto](#)
 
 ---
 
-<!-- ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=caxiano&theme=algolia&column=6" />
 </p> -->
@@ -107,6 +107,6 @@ Full Stack Developer & Technology Graduate focused on **scalable solutions** and
 
 ## 📬 Contact Me
 📧 Email: **csnishikawa@gmail.com**  
-🔗 LinkedIn: **linkedin.com/in/cassiano-nishikawa**
+🔗 LinkedIn: [**linkedin.com/in/cassiano-nishikawa**](https://www.linkedin.com/in/cassiano-nishikawa/)
 
 ---
