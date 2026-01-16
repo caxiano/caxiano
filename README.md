@@ -22,7 +22,7 @@
 Full Stack Developer & Technology Graduate focused on **scalable solutions** and **continuous learning**.
 
 💻 **6+ years** experience with PHP, JavaScript, HTML, CSS, Java, MySQL  
-🐍 **2+ years** in Python backend development (Django/Flask), REST APIs, PostgreSQL, MongoDB  
+🐍 **3 years** in Python backend development (Django/Flask), REST APIs, PostgreSQL, MongoDB  
 ⚛️ **1 year** with modern frontend using TypeScript/React + AI & ML applications  
 🛡 Background in **Information Security Technology**  
 📊 Experience as a **team leader** & **business owner (1+ year)**  
@@ -54,7 +54,7 @@ Full Stack Developer & Technology Graduate focused on **scalable solutions** and
 </p>
 
 ---
-
+<!-- 
 ## ⭐ Featured Projects
 
 ### 🔥 **AI & Automation**
@@ -75,21 +75,21 @@ Full Stack Developer & Technology Graduate focused on **scalable solutions** and
 
 - **Dashboard Administrativo (React + Chakra + API REST)**  
   _Gráficos, KPIs, autenticação e controle de usuários_  
-  [🔗 Ver Projeto](#)
+  [🔗 Ver Projeto](#) -->
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=caxiano&theme=algolia&column=6" />
-</p>
+</p> -->
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=caxiano&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caxiano&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=caxiano&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=caxiano&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
